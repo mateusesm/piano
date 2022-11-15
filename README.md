@@ -2,4 +2,4 @@
 
 Download this repository and open file index.html in your browser from your preference.
 
- [Click here for see the piano](https://mateusesm.github.io/piano/)
+[Click here for to see the piano](https://mateusesm.github.io/piano/)
